@@ -3,9 +3,6 @@
 <!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=230&section=header&text=Han%20Sang-min&fontSize=45&fontColor=16c79a&fontAlignY=35&desc=Systems%20%7C%20Embedded%20%7C%20Infrastructure&descSize=18&descColor=cccccc&descAlignY=55&animation=fadeIn" width="100%" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=16C79A&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%2Fproc+%ED%8C%8C%EC%8B%B1%EB%B6%80%ED%84%B0+K8s+%EB%B0%B0%ED%8F%AC%EA%B9%8C%EC%A7%80;RTOS+%EC%8A%A4%EB%A0%88%EB%93%9C%EB%B6%80%ED%84%B0+gRPC+%EC%8A%A4%ED%8A%B8%EB%A6%BC%EA%B9%8C%EC%A7%80" alt="Typing SVG" /></a>
-
 <br/>
 
 <!-- Contact Badges -->
@@ -13,16 +10,6 @@
 [![GitHub](https://img.shields.io/badge/Han--Sang--min-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Han-Sang-min)
 
 </div>
-
----
-
-## 🏢 현재
-
-**태하메카트로닉스** 디스플레이 팀 · Software Engineer `2024.11 ~`
-
-> ThreadX 기반 임베디드 시스템에서 센서 연동 · 멀티스레딩 아키텍처 설계 · 메뉴 UI 프레임워크 제작
-
----
 
 ## 🛠️ Tech Stack
 
@@ -123,44 +110,6 @@ STM32N6570-DK + YOLOv2 + IMX335 Camera
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Han-Sang-min&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=16c79a&icon_color=16c79a&text_color=cccccc&ring_color=16c79a" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Han-Sang-min&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=16c79a&text_color=cccccc&langs_count=6" height="170" />
-
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Han-Sang-min&theme=tokyonight&hide_border=true&background=1A1A2E&ring=16C79A&fire=16C79A&currStreakLabel=16C79A&sideLabels=CCCCCC&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" width="520" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Han-Sang-min&bg_color=1a1a2e&color=16c79a&line=0f3460&point=16c79a&area=true&area_color=16c79a&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-
-</div>
-
----
-
-## 🎓 Education
-
-| | 기관 | 기간 | 내용 |
-|---|---|---|---|
-| 🏫 | **42 École (42 Seoul)** | 2022.07 ~ 2024.11 | CS 이론 · 공통/본과정 수료 |
-| 🎓 | **경민대학교** | 2017 ~ 2022 | 정보통신과 졸업 |
-
----
-
-<div align="center">
-
-<!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=Han-Sang-min&color=16c79a&style=flat-square&label=Profile+Views)
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" />
