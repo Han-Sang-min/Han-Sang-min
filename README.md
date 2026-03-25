@@ -37,13 +37,13 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔭 [go-agent](https://github.com/Han-Sang-min/go-agent-core)
+### [go-agent](https://github.com/Han-Sang-min/go-agent-core)
 **모니터링 에이전트 시스템**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -61,7 +61,7 @@ Linux / Container / K8s 환경의 메트릭 수집 시스템
 </td>
 <td width="50%" valign="top">
 
-### 📷 [STM32 AI Camera](https://github.com/Han-Sang-min/STM32N6_AI)
+### [STM32 AI Camera](https://github.com/Han-Sang-min/STM32N6_AI)
 **실시간 객체 인식** ⭐ 6
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
@@ -80,7 +80,7 @@ STM32N6570-DK + YOLOv2 + IMX335 Camera
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Zoomies
+### [Zoomies](https://store.steampowered.com/app/3009430/zoomies/)
 **멀티플레이 FPS 게임 · Steam 출시**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -96,15 +96,15 @@ STM32N6570-DK + YOLOv2 + IMX335 Camera
 </td>
 <td width="50%" valign="top">
 
-### 🎓 42 Seoul 프로젝트
+### 42 Seoul 프로젝트
 
-**MiniShell** `C`
+**[MiniShell](https://github.com/Han-Sang-min/42-Seoul/tree/main/Minishell)** `C`
 > Bash 모델 · 파이프, 리다이렉션, 시그널, history, PATH 환경변수 처리
 
-**IRC Chatting Server** `C++`
+**[IRC Chatting Server](https://github.com/Han-Sang-min/42-Seoul/tree/main/Ft_Irc)** `C++`
 > 2인 프로젝트 · RFC 1459 명세 기반 채팅 서버 구현
 
-**Pong Game Server** `JS` `Docker`
+**[Pong Game Server](https://github.com/42-42-transcendence/ft_transcendence)** `JS` `Docker`
 > 5인 프로젝트 · 게임 서버 및 API 담당
 
 </td>
