@@ -62,7 +62,7 @@ Linux / Container / K8s 환경의 메트릭 수집 시스템
 <td width="50%" valign="top">
 
 ### [STM32 AI Camera](https://github.com/Han-Sang-min/STM32N6_AI)
-**실시간 객체 인식** ⭐ 6
+**실시간 객체 인식**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
