@@ -8,7 +8,6 @@
 <!-- Contact Badges -->
 [![Gmail](https://img.shields.io/badge/ghtrm1037@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ghtrm1037@gmail.com)
 [![GitHub](https://img.shields.io/badge/Han--Sang--min-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Han-Sang-min)
-[![Tech Notes](https://img.shields.io/badge/Tech_Notes-CS_%26_C++-16c79a?style=flat-square&logo=readthedocs&logoColor=white)](https://cs-cpp-notes-v2.pages.dev/)
 
 </div>
 
@@ -33,6 +32,10 @@
 #### Embedded & Game
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### [Tech Notes](https://cs-cpp-notes-v2.pages.dev/)
+
+**C / C++ / OS / Embedded 기술 노트**
 
 </div>
 
