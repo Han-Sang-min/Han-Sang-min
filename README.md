@@ -8,6 +8,7 @@
 <!-- Contact Badges -->
 [![Gmail](https://img.shields.io/badge/ghtrm1037@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ghtrm1037@gmail.com)
 [![GitHub](https://img.shields.io/badge/Han--Sang--min-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Han-Sang-min)
+[![Tech Notes](https://img.shields.io/badge/Tech_Notes-CS_%26_C++-16c79a?style=flat-square&logo=readthedocs&logoColor=white)](https://cs-cpp-notes-v2.pages.dev/)
 
 </div>
 
